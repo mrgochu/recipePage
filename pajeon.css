@@ -1,0 +1,48 @@
+/* *{
+    border:2px solid red;
+} */
+h1{
+    font-family: 'Abel', sans-serif;
+    font-size: 48px;
+}
+body{
+    background-color: #FFFFFF;
+    margin:0;
+}
+.box {
+    display: flex;
+    color: #F9FAF8;
+    background-color: #1F2937;
+    padding:60px 0px 125px 0px;
+    justify-content: center;
+}
+.food-box {
+    flex-basis: 150px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-right:80px;
+    margin-top:80px;
+}
+.image-box img{
+    width:300px;
+    border-radius:80px;
+}
+.navbar{
+    display:flex;
+    padding: 20px 0px 20px 100px;
+    align-items: center;
+    background-color: #1F2937;
+}
+.home a{
+    text-decoration: none;
+    color:white;
+    font-family: 'Abel', sans-serif;
+}
+.pajeon-ingredients{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    padding:20px 20px 20px 150px;
+    font-family: 'Abel', sans-serif;
+}
