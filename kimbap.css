@@ -35,6 +35,7 @@ body{
     background-color: #1F2937;
 }
 .home a{
+    font-size:30px;
     text-decoration: none;
     color:white;
     font-family: 'Abel', sans-serif;
