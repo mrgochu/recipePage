@@ -49,3 +49,12 @@ body{
     padding:20px 20px 20px 150px;
     font-family: 'Abel', sans-serif;
 }
+.pajeon-steps{
+    align-items: center;
+    font-size: 1.2em;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    padding:20px 500px 20px 500px;
+    font-family: 'Abel', sans-serif;
+}
